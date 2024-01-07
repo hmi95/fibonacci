@@ -8,7 +8,7 @@ Teilweise wird die Folge auch mit den Zahlen 0 und 1 begonnen. Wir verwenden hie
 
 ## Aufgabe ##
 
-Gegeben ist in jeder Programmiersprache (aktuell in C# und C++) jeweils eine Konsolenanwendung, welche die ersten drei Zahlen der Fibonacci-Folge ausgibt.
+Gegeben ist in jeder Programmiersprache (aktuell in C#, C++ und Python) jeweils eine Konsolenanwendung, welche die ersten drei Zahlen der Fibonacci-Folge ausgibt.
 
 Ausgehend von dieser Lösung sind nacheinander folgende Änderungen durchzuführen und jeweils das Ergebnis vorzuführen (Programm und Code).
 

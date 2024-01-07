@@ -14,6 +14,6 @@ Ausgehend von dieser Lösung sind nacheinander folgende Änderungen durchzuführ
 
 1. Die gegeben Lösung so erweitern, dass die ersten 22 Zahlen der Fibonacci-Folge ausgeben werden.
 2. Leerzeilen hinzufügen (wähle eine Variante aus)
-	a. Die Lösung aus 1. so erweitern, dass immer dann, wenn die aktuelle Zahl aus der Folge eine Stelle mehr hat als die vorige, vor der aktuellen Zahl eine zusätzliche Leerzeile ausgegeben wird. 
-	b. Die Lösung aus 1. so erweitern, dass nach jeweils 10 Zahlen der Fibonacci-Folge eine zusätzliche Leezeile ausgegeben wird. 
+	1. Die Lösung aus 1. so erweitern, dass immer dann, wenn die aktuelle Zahl aus der Folge eine Stelle mehr hat als die vorige, vor der aktuellen Zahl eine zusätzliche Leerzeile ausgegeben wird. 
+	2. Die Lösung aus 1. so erweitern, dass nach jeweils 10 Zahlen der Fibonacci-Folge eine zusätzliche Leezeile ausgegeben wird. 
 3. Die Lösung aus 2. erweitern, sodass jetzt 50 Fibonacci Zahlen ausgeben werden.
